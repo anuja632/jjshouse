@@ -1,0 +1,18 @@
+[20-Jan-2026 05:33:57 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home2/jjshousi/public_html/wp/wp-includes/compat-utf8.php on line 47
+[20-Jan-2026 05:34:01 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home2/jjshousi/public_html/wp/wp-includes/compat-utf8.php on line 47
+[20-Jan-2026 05:34:03 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home2/jjshousi/public_html/wp/wp-includes/compat-utf8.php on line 47
+[20-Jan-2026 05:34:30 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home2/jjshousi/public_html/wp/wp-includes/compat-utf8.php on line 47
+[20-Jan-2026 05:34:32 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home2/jjshousi/public_html/wp/wp-includes/compat-utf8.php on line 47
+[20-Jan-2026 05:34:33 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home2/jjshousi/public_html/wp/wp-includes/compat-utf8.php on line 47
+[20-Jan-2026 05:34:43 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home2/jjshousi/public_html/wp/wp-includes/compat-utf8.php on line 47
+[20-Jan-2026 05:34:45 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home2/jjshousi/public_html/wp/wp-includes/compat-utf8.php on line 47
+[20-Jan-2026 05:34:46 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home2/jjshousi/public_html/wp/wp-includes/compat-utf8.php on line 47
+[20-Jan-2026 06:54:40 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/jjshousi/public_html/wp/wp-content/themes/astra/inc/class-astra-dynamic-css.php on line 846
+[20-Jan-2026 06:54:53 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/jjshousi/public_html/wp/wp-content/themes/astra/inc/class-astra-dynamic-css.php on line 846
+[20-Jan-2026 07:01:04 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/jjshousi/public_html/wp/wp-content/themes/astra/inc/class-astra-dynamic-css.php on line 846
+[20-Jan-2026 07:01:16 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/jjshousi/public_html/wp/wp-content/themes/astra/inc/class-astra-dynamic-css.php on line 846
+[20-Jan-2026 07:01:16 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/jjshousi/public_html/wp/wp-content/themes/astra/inc/class-astra-dynamic-css.php on line 846
+[20-Jan-2026 07:01:26 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/jjshousi/public_html/wp/wp-content/themes/astra/inc/class-astra-dynamic-css.php on line 846
+[20-Jan-2026 21:30:32 UTC] PHP Warning:  Module 'igbinary' already loaded in Unknown on line 0
+[20-Jan-2026 21:30:36 UTC] PHP Warning:  Module 'igbinary' already loaded in Unknown on line 0
+[20-Jan-2026 21:30:36 UTC] PHP Notice:  Function _load_textdomain_just_in_time was called <strong>incorrectly</strong>. Translation loading for the <code>litespeed-cache</code> domain was triggered too early. This is usually an indicator for some code in the plugin or theme running too early. Translations should be loaded at the <code>init</code> action or later. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 6.7.0.) in /home2/jjshousi/public_html/wp/wp-includes/functions.php on line 6131
