@@ -10254,6 +10254,20 @@ height:100px;
   position: relative;
   display: block;
   padding: 120px 0 20px;
+
+}
+
+.contact-trust h4 {
+  font-size: 22px;
+  margin-bottom: 8px;
+  color:var(--alipes-base);
+  text-align: center;
+}
+
+.contact-trust p {
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 5px;
 }
 
 
@@ -10263,8 +10277,8 @@ height:100px;
 }
 .contact-image {
     width: 100%;
-    height: 477px;
-    object-fit: cover;
+    /* height: 477px; */
+    /* object-fit: cover; */
 }
 
 .contact-page__form .row {
